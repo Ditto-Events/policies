@@ -9,7 +9,7 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [Use Restrictions policy](abuse/index.md)
 * [Security overview](security/index.md)
 * [Support Guarantee](support-guarantee/index.md)
-* Account ownership information for [Ditto](ownership/index.md)
+* [Account ownership information for Ditto](ownership/index.md)
 * [How to manage the Ditto account of someone who is incapacitated or has died](incapacitated/index.md)
 
 
