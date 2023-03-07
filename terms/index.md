@@ -96,6 +96,4 @@ In other words: choosing to use our Services does mean you are making a bet on u
 
 If you have a question about any of these Terms, please [contact our Support team](mailto:support@ditto.events).
 
-> Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
 > Ditto Events' policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

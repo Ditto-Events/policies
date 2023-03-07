@@ -13,6 +13,4 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [How to manage the Ditto account of someone who is incapacitated or has died](incapacitated/index.md)
 
 
-> Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
 > Ditto Events' policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
